@@ -1,0 +1,2 @@
+# Securing-the-LoRa-Relay-based-system-for-detonating-explosives-in-underground-mines.
+A 2020 paper by P. Branch and T. Cricenti ("A LoRa Relay Based System for Detonating Explosives in Underground Mines") proposed a prototype system for detonation of explosives used for hard-rock underground mining. This paper aims to provide recommendations for securing the blasting system from intentional or accidental failure.
